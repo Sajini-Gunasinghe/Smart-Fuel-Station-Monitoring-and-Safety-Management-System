@@ -2,7 +2,7 @@
 
 > **IT4021 — Internet of Things and Big Data Analytics**  
 > Sri Lanka Institute of Information Technology (SLIIT)  
-> Group 2026_40 | Semester 2, 2025/2026
+> Group 2026_40 
 
 ---
 
