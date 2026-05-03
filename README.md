@@ -5,6 +5,9 @@
 > Group 2026_40 
 
 ---
+<img width="1909" height="966" alt="Screenshot 2026-05-03 171700" src="https://github.com/user-attachments/assets/9ae37a39-68cf-47d9-a3c8-aa50771ae084" />
+
+
 
 ## 📌 Project Overview
 
